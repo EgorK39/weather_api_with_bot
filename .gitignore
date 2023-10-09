@@ -1,0 +1,5 @@
+.env
+.idea
+venv
+bot_main.py
+0001_initial.py
